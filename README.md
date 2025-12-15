@@ -1,91 +1,40 @@
-<!-- 🌅 Sunset Orange Gradient Header -->
-<div align="center" style="
-  background: linear-gradient(135deg, #ff7a18, #ff9f1c, #ffb347);
-  padding: 40px 20px;
-  border-radius: 12px;
-  color: white;
-">
+# 👋 Hi, I'm Yogeswar Reddy
+### 🧑‍💻 Software Engineer
 
-  <h1>👋 Hi, I'm Yogeswar Reddy</h1>
-  <h3>Software Engineer</h3>
+I'm a passionate software engineer with expertise in **Python, Flask, HTML, CSS, and SQL**.  
+Currently, I'm diving deep into the **Elixir ecosystem**, working on **real estate CRM solutions** using **Elixir, Phoenix, Ash, and PostgreSQL**.
 
-  <p>
-    Passionate about building scalable backend systems and learning new technologies.
-  </p>
+My goal is to build **scalable, well-architected software systems** across diverse domains while continuously learning and adapting to new technologies.
 
-</div>
+---
 
-<br/>
+## 🛠️ Technologies & Tools
 
-<!-- 🧑‍💻 About Me Section -->
-<div style="
-  background: linear-gradient(135deg, #fff3e0, #ffe0b2);
-  padding: 25px;
-  border-radius: 12px;
-">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+</p>
 
-  <h2>🚀 About Me</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="45" />
+</p>
 
-  <p>
-    I'm a <strong>passionate Software Engineer</strong> with expertise in
-    <strong>Python, Flask, HTML, CSS, and SQL</strong>.
-    Currently, I'm diving deep into the <strong>Elixir ecosystem</strong>,
-    working on <strong>real estate CRM solutions</strong> using:
-  </p>
+---
 
-  <ul>
-    <li>Elixir</li>
-    <li>Phoenix</li>
-    <li>Ash Framework</li>
-    <li>PostgreSQL</li>
-  </ul>
+## 🚀 What I’m Working On
+- Backend systems with **Python & Flask**
+- Real-world **Elixir + Phoenix** applications
+- CRM platforms & data-driven applications
+- Writing clean, maintainable, and secure code
 
-  <p>
-    My goal is to build <strong>scalable, well-architected software systems</strong>
-    across diverse domains while continuously learning and adapting to new technologies.
-  </p>
+---
 
-</div>
+## 🤝 Let’s Connect
+Feel free to explore my repositories and reach out if you're interested in collaborating on **backend systems, Elixir projects, or Python applications**.
 
-<br/>
-
-<!-- 🛠️ Skills Section -->
-<div style="
-  background: linear-gradient(135deg, #ffecd2, #fcb69f);
-  padding: 25px;
-  border-radius: 12px;
-">
-
-  <h2>🛠️ Skills & Technologies</h2>
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Elixir-FF6F00?style=for-the-badge&logo=elixir&logoColor=white" />
-    <img src="https://img.shields.io/badge/Phoenix-FF7043?style=for-the-badge&logo=phoenix&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-FF9800?style=for-the-badge&logo=flask&logoColor=white" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-FF8A65?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-FFB74D?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-FF7043?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ash_Framework-FF6B35?style=for-the-badge&logo=elixir&logoColor=white" />
-  </p>
-
-</div>
-
-<br/>
-
-<!-- 🤝 Footer -->
-<div align="center" style="
-  background: linear-gradient(135deg, #ff9f1c, #ff7a18);
-  padding: 20px;
-  border-radius: 12px;
-  color: white;
-">
-
-  <h3>🤝 Let’s Collaborate</h3>
+⭐ *Always learning. Always improving.*
